@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+firebase-admin==6.1.0
+requests==2.30.0
+pypdf==3.8.1
