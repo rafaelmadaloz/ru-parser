@@ -1,0 +1,8 @@
+Description: RU Parser.
+Resources:
+  Function:
+    Type: 'AWS::Serverless::Function'
+      Properties:
+        FunctionName: ru-parser
+        Handler: app.update_menu
+        Runtime: python3.10

@@ -1,6 +1,5 @@
 /env
 /.vscode
+.DS_Store
 firebase_credentials.json
-
-
-
+aws.txt
